@@ -46,3 +46,10 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+
+Patches (+/-)
+---------------
++ dwm-autostart-20200610-cb3f58a
++ dwm-fullscreen-6.2
+- dwm-systray-20200610-f09418b
